@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @AbdelmagidAzab2002
-- 👀 I’m interested in Pentration Testing
+- 👀 I’m a SOC Analyst T1
